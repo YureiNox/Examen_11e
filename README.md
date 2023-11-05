@@ -14,7 +14,7 @@ supportcours/
 ├── éléve/
 │   ├── allemand/
 │   │   ├── Arbeitsbuch/
-│   │   ├── Kurtsbuch/
+│   │   ├── Kursbuch/
 │   │   └── Wortschatz/
 │   │       └── Wortschatz - 10e & 11e - Band 2.pdf
 │   └── anglais/

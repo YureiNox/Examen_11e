@@ -5,6 +5,10 @@ My 11e year in school at the college des rives exams
 
 the tree :
 
+
+for people who doesn't know the {name}/ the "/" after a name is for folder all think that have an "/" after a name are an folder
+
+
 ```
 supportcours/
 ├── éléve/
@@ -38,5 +42,3 @@ supportcours/
 
 25 directories, 4 files
 ```
-
-for people who doesn't know the {name}/ the "/" after a name is for folder all think that have an "/" after a name are an folder

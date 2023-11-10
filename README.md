@@ -43,7 +43,7 @@ supportcours/
 25 directories, 4 files
 ```
 ```
-site
+site/
 ├── Eléve/
 │   ├── fichierallemand/
 │   └── fichieranglais/

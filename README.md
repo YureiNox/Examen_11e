@@ -42,3 +42,14 @@ supportcours/
 
 25 directories, 4 files
 ```
+```
+site
+├── Eléve/
+│   ├── fichierallemand/
+│   └── fichieranglais/
+│
+└── Enseignant/
+    ├── enseignantfichierallemand/
+    └── enseignantfichieranglais/
+```
+
